@@ -56,7 +56,7 @@ else:
 setup(
     name="django-advanced-filters",
     version=__version__,
-    url="https://github.com/baseplate-admin/django-advanced-filters",
+    url="https://github.com/modlinltd/django-advanced-filters",
     license="MIT",
     description="A Django application for advanced admin filters",
     keywords="django-admin admin advanced filters custom query",
